@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         // Obtain the FirebaseAnalytics instance.
         mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
 
-        //        Crashlytics
+        //        Crashlytics Block
         Button crashButton = new Button(this);
         crashButton.setText("Crash!");
         crashButton.setOnClickListener(new View.OnClickListener() {
@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
 
         //        Analytics Block
         Bundle bundle = new Bundle();
-        bundle.putString(FirebaseAnalytics.Param.ITEM_ID, "id");
+        bundle.putString(FirebaseAnalytics.Param.ITEM_ID, "1");
         bundle.putString(FirebaseAnalytics.Param.ITEM_NAME, "Init");
         mFirebaseAnalytics.logEvent(FirebaseAnalytics.Event.SELECT_CONTENT, bundle);
     }
