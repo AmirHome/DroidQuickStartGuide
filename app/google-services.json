@@ -1,34 +1,42 @@
 {
   "project_info": {
-    "project_number": "544527684550",
-    "firebase_url": "https://droiddemonhr.firebaseio.com",
-    "project_id": "droiddemonhr",
-    "storage_bucket": "droiddemonhr.appspot.com"
+    "project_number": "40887549947",
+    "firebase_url": "https://droidquickstartguide.firebaseio.com",
+    "project_id": "droidquickstartguide",
+    "storage_bucket": "droidquickstartguide.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:544527684550:android:43728b877ce3e079ee98c7",
+        "mobilesdk_app_id": "1:40887549947:android:b2e98f0527b3b305b3955e",
         "android_client_info": {
-          "package_name": "com.example.droiddemonhr"
+          "package_name": "com.example.droidquickstartguide"
         }
       },
       "oauth_client": [
         {
-          "client_id": "544527684550-b56eqdmtj8ovjfocs145bivdkm01ctq5.apps.googleusercontent.com",
+          "client_id": "40887549947-oufhavuv0brape4o4u3ao6jmicfj3u0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.droidquickstartguide",
+            "certificate_hash": "9e89bcd462ae60168397d9f5cc0a3c9307713018"
+          }
+        },
+        {
+          "client_id": "40887549947-tqmj2njlq6smfburslpdne1e269b7d6m.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAmbJOfigK-tF3DPm5a6-yTwpYCG8sX_iY"
+          "current_key": "AIzaSyCG4MVtXAGPLNsYlVIVkBjlRrmoB_aDsK0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "544527684550-b56eqdmtj8ovjfocs145bivdkm01ctq5.apps.googleusercontent.com",
+              "client_id": "40887549947-tqmj2njlq6smfburslpdne1e269b7d6m.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
