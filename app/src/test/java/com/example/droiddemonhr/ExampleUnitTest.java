@@ -1,4 +1,4 @@
-package com.example.droidquickstartguide;
+package com.example.droiddemonhr;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.droidquickstartguide;
+package com.example.droiddemonhr;
 
 import androidx.appcompat.app.AppCompatActivity;
 

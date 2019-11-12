@@ -1,4 +1,4 @@
-package com.example.droidquickstartguide;
+package com.example.droiddemonhr;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.example.droidquickstartguide", appContext.getPackageName());
+        assertEquals("com.example.droiddemonhr", appContext.getPackageName());
     }
 }
